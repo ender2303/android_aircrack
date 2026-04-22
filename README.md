@@ -3,7 +3,7 @@
 This repository is a port of the Aircrack-ng 1.2-beta2 suite (except scripts) for Android. It works directly on top of Android.
 This port is done by [KrisWebDev](https://github.com/kriswebdev) and is not "affiliated" with the Aircrack-ng.org team.
 
-## Aircrack-ng
+## Aircrack-ng:
 > Aircrack-ng is an 802.11 WEP and WPA-PSK keys cracking program that can recover keys once enough data packets have been captured. It implements the standard FMS attack along with some optimizations like KoreK attacks, as well as the PTW attack, thus making the attack much faster compared to other WEP cracking tools.
 
 # Running Aircrack-ng on Android (precompiled)
